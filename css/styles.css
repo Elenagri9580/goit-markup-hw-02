@@ -40,6 +40,7 @@ address {
 .cont-link {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .nav-link:hover,
@@ -85,7 +86,7 @@ address {
     background-color: #F4F4FD;
 }
 
-.portfolio-list {
+.portfolio-item {
     background-color: #FFFFFF;
 }
 
